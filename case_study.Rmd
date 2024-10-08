@@ -1,0 +1,11 @@
+---
+title: "Case Study"
+output: github_document
+---
+
+Load key packages
+```{r setup}
+library(tidyverse)
+library (p8105.datasets)
+data(nyc_airbnb)
+```
